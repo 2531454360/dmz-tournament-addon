@@ -1,0 +1,64 @@
+{
+  "item.dmztournament.tournament_token": "Tournament Token",
+  "item.dmztournament.champion_medal": "Champion Medal",
+  "item.dmztournament.arena_pass": "Arena Pass",
+  "item.dmztournament.tournament_chest": "Tournament Chest",
+  
+  "item.dmztournament.tournament_token.desc": "A token used to enter tournaments",
+  "item.dmztournament.champion_medal.desc": "Awarded to tournament champions",
+  "item.dmztournament.arena_pass.desc": "Grants access to tournament arenas",
+  "item.dmztournament.tournament_chest.desc": "Contains tournament rewards",
+  
+  "command.tournament.success.created": "Tournament created successfully!",
+  "command.tournament.success.joined": "You have joined the tournament!",
+  "command.tournament.success.left": "You have left the tournament!",
+  "command.tournament.success.started": "Tournament has started!",
+  "command.tournament.success.cancelled": "Tournament has been cancelled!",
+  
+  "command.tournament.error.not_found": "Tournament not found!",
+  "command.tournament.error.already_joined": "You are already in a tournament!",
+  "command.tournament.error.not_registered": "You are not registered in any tournament!",
+  "command.tournament.error.full": "Tournament is full!",
+  "command.tournament.error.in_progress": "Tournament is already in progress!",
+  "command.tournament.error.not_enough_players": "Not enough players to start!",
+  
+  "tournament.state.setup": "Setting Up",
+  "tournament.state.registration": "Registration Open",
+  "tournament.state.starting": "Starting Soon",
+  "tournament.state.in_progress": "In Progress",
+  "tournament.state.paused": "Paused",
+  "tournament.state.finished": "Finished",
+  "tournament.state.cancelled": "Cancelled",
+  
+  "tournament.format.single_elimination": "Single Elimination",
+  "tournament.format.double_elimination": "Double Elimination",
+  "tournament.format.round_robin": "Round Robin",
+  "tournament.format.swiss": "Swiss System",
+  "tournament.format.free_for_all": "Free For All",
+  
+  "match.state.waiting": "Waiting",
+  "match.state.starting": "Starting",
+  "match.state.in_progress": "In Progress",
+  "match.state.paused": "Paused",
+  "match.state.finished": "Finished",
+  "match.state.cancelled": "Cancelled",
+  
+  "title.tournament.champion": "§6§lTournament Champion",
+  "title.tournament.runner_up": "§7§lTournament Runner-up",
+  "title.tournament.third_place": "§c§lTournament Third Place",
+  
+  "message.tournament.welcome": "Welcome to the tournament!",
+  "message.tournament.match_starting": "Match starting in %d seconds!",
+  "message.tournament.fight": "§a§lFIGHT!",
+  "message.tournament.winner": "§6§l%s WINS!",
+  "message.tournament.eliminated": "§c%s has been eliminated!",
+  "message.tournament.round_start": "§6=== Round %d ===",
+  
+  "stat.tournament.played": "Tournaments Played",
+  "stat.tournament.won": "Tournaments Won",
+  "stat.tournament.win_rate": "Win Rate",
+  "stat.tournament.kills": "Total Kills",
+  "stat.tournament.deaths": "Total Deaths",
+  "stat.tournament.kd_ratio": "K/D Ratio",
+  "stat.tournament.points": "Tournament Points"
+}

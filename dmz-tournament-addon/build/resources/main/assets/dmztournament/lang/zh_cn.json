@@ -1,0 +1,64 @@
+{
+  "item.dmztournament.tournament_token": "武道会令牌",
+  "item.dmztournament.champion_medal": "冠军奖牌",
+  "item.dmztournament.arena_pass": "竞技场通行证",
+  "item.dmztournament.tournament_chest": "武道会宝箱",
+  
+  "item.dmztournament.tournament_token.desc": "用于参加武道会的令牌",
+  "item.dmztournament.champion_medal.desc": "颁发给武道会冠军",
+  "item.dmztournament.arena_pass.desc": "允许进入竞技场",
+  "item.dmztournament.tournament_chest.desc": "包含武道会奖励",
+  
+  "command.tournament.success.created": "武道会创建成功！",
+  "command.tournament.success.joined": "你已加入武道会！",
+  "command.tournament.success.left": "你已离开武道会！",
+  "command.tournament.success.started": "武道会已开始！",
+  "command.tournament.success.cancelled": "武道会已取消！",
+  
+  "command.tournament.error.not_found": "未找到武道会！",
+  "command.tournament.error.already_joined": "你已经在武道会中了！",
+  "command.tournament.error.not_registered": "你没有注册任何武道会！",
+  "command.tournament.error.full": "武道会已满！",
+  "command.tournament.error.in_progress": "武道会正在进行中！",
+  "command.tournament.error.not_enough_players": "玩家数量不足以开始！",
+  
+  "tournament.state.setup": "设置中",
+  "tournament.state.registration": "开放注册",
+  "tournament.state.starting": "即将开始",
+  "tournament.state.in_progress": "进行中",
+  "tournament.state.paused": "已暂停",
+  "tournament.state.finished": "已结束",
+  "tournament.state.cancelled": "已取消",
+  
+  "tournament.format.single_elimination": "单败淘汰制",
+  "tournament.format.double_elimination": "双败淘汰制",
+  "tournament.format.round_robin": "循环赛",
+  "tournament.format.swiss": "瑞士制",
+  "tournament.format.free_for_all": "混战",
+  
+  "match.state.waiting": "等待中",
+  "match.state.starting": "开始中",
+  "match.state.in_progress": "进行中",
+  "match.state.paused": "已暂停",
+  "match.state.finished": "已结束",
+  "match.state.cancelled": "已取消",
+  
+  "title.tournament.champion": "§6§l武道会冠军",
+  "title.tournament.runner_up": "§7§l武道会亚军",
+  "title.tournament.third_place": "§c§l武道会季军",
+  
+  "message.tournament.welcome": "欢迎来到武道会！",
+  "message.tournament.match_starting": "比赛将在 %d 秒后开始！",
+  "message.tournament.fight": "§a§l战斗开始！",
+  "message.tournament.winner": "§6§l%s 获胜！",
+  "message.tournament.eliminated": "§c%s 被淘汰了！",
+  "message.tournament.round_start": "§6=== 第 %d 轮 ===",
+  
+  "stat.tournament.played": "参加武道会次数",
+  "stat.tournament.won": "武道会获胜次数",
+  "stat.tournament.win_rate": "胜率",
+  "stat.tournament.kills": "总击杀数",
+  "stat.tournament.deaths": "总死亡数",
+  "stat.tournament.kd_ratio": "K/D 比率",
+  "stat.tournament.points": "武道会积分"
+}

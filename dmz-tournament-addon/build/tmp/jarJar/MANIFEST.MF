@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: dmztournament
+Specification-Vendor: Blank°
+Specification-Version: 1
+Implementation-Title: dmztournament
+Implementation-Version: 1.0.0
+Implementation-Vendor: Blank°
+MixinConfigs: dmztournament.mixins.json
+
